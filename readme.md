@@ -78,7 +78,7 @@ The app will run at: http://localhost:8080
         POST      /user/signup	    Create New User
         GET	      /allusers	List    All Users
         GET	      /user/:id	Edit    User Page
-        PATCH	    /user/:id	        Update User
+        PATCH	  /user/:id	        Update User
         DELETE	  /user/:id	        Delete User
 
 👨‍💻 Author
